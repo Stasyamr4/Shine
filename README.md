@@ -1,0 +1,2 @@
+# Shine
+Internet-magazin Shine
